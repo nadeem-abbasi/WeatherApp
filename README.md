@@ -1,4 +1,4 @@
-# WeatherApp-OptileTask
+# WeatherApp
 
 ## Running the app
 
